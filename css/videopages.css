@@ -1,0 +1,58 @@
+.bgimg-a {
+    width: 80%;
+    float: right;
+}
+
+.payers {
+    background-image: url(/imges/692439.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: aliceblue;
+    background-position-x: right;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.text-name {
+    background-image: linear-gradient(to right, rgb(66, 66, 66), rgba(255, 255, 255, 0));
+}
+
+.paytext {
+    padding-left: 10%;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    background-image: linear-gradient(to right, rgba(27, 27, 27, 0.877), rgba(255, 255, 255, 0));
+}
+
+.info {
+    text-size-adjust: 2px;
+    margin-bottom: 30px;
+}
+
+.futer {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    height: 300px;
+    margin-top: -3px;
+}
+
+.futera {
+    padding-top: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+#playv {
+    background-color: #525252;
+    margin-top: 50px;
+    padding: 10px 30px 10px 30px;
+    color: aliceblue;
+    border-radius: 5px;
+    text-decoration-style: none;
+    text-decoration: none;
+}
+
+
+#playv:hover {
+    background-color: #ce2a2a;
+}
